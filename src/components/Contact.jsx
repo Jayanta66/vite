@@ -39,7 +39,7 @@ const Contact = () => {
             <SiGmail className="icons" />
           </a>
           <a href="https://www.fiverr.com/jayanta_halder" target="_blank" className="items">
-            <FaGithubSquare className="icons" />
+            <image src="/assets/company/fiverr.png" className="icons" />
           </a>
         </div>
       </div>
