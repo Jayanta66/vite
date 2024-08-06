@@ -11,7 +11,7 @@ const Home = () => {
         "Welcome to my profile",
         "My Name is Jayanta Halder",
         "I'm Java full stack developer",
-        "Web Developer (Spring Boot, Microservices, JPA , JSP, Thymeleaf,React,RestApi,Mysql,Agile)",
+        "Web Developer (Spring Boot, Microservices, JPA , JSP, Thymeleaf,React,RestApi,Mysql)",
       ],
       typeSpeed: 50,
       backSpeed: 50,
