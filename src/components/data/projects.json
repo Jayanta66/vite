@@ -26,7 +26,7 @@
   {
     "key": 4,
     "title": "I am On Fiverr",
-    "imageSrc": "company/fiverr.png",
+    "imageSrc": "/assets/company/fiverr.png",
     "description": "I am on Fiverr. I would like to build your idea's into real.",
     "demo": "https://www.fiverr.com/jayanta_halder",
     "source": "https://www.fiverr.com/jayanta_halder"
