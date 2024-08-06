@@ -21,6 +21,9 @@ const Navbar = () => {
           <a href="#projects" className="nav_items">
             Projects
           </a>
+          <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
+            I am on Fiverr
+          </a>
           <a href="#contact" className="nav_items">
             Contact
           </a>
