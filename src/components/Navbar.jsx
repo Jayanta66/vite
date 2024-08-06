@@ -24,6 +24,12 @@ const Navbar = () => {
           <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
             I am on Fiverr
           </a>
+          <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
+            I am on Upwork
+          </a>
+          <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
+            I am on Freelancer
+          </a>
           <a href="#contact" className="nav_items">
             Contact
           </a>
