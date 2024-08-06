@@ -10,7 +10,7 @@ const Contact = () => {
   return (
     <>
       <div className="container contact" id="contact">
-        <h1>CONTACT ME</h1>
+        <h1>CONTACT ME : 8910425824</h1>
         <div
           className="contact-icon"
           data-aos="zoom-in-up"
@@ -37,6 +37,9 @@ const Contact = () => {
             className="items"
           >
             <SiGmail className="icons" />
+          </a>
+          <a href="https://www.fiverr.com/jayanta_halder" target="_blank" className="items">
+            <FaGithubSquare className="icons" />
           </a>
         </div>
       </div>
