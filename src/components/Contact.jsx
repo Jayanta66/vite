@@ -39,7 +39,7 @@ const Contact = () => {
             <SiGmail className="icons" />
           </a>
           <a href="https://www.fiverr.com/jayanta_halder" target="_blank" className="items">
-            <fa-upwork className="icons" />
+            <FaUpworkSquare className="icons" />
           </a>
         </div>
       </div>
