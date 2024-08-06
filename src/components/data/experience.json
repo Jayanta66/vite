@@ -5,38 +5,24 @@
     "organisation": "Wipro",
     "startDate": "NOV, 2021",
     "endDate": "JAN,2024",
-    "location": "Bengluru, India",
+    "location": "Bengaluru, India",
     "experiences": [
       "Worked on Google Gmail",
       "Worked with the Google Bard Team"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/wip.jpg"
   },
 
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Software Development Engineer",
+    "organisation": "ADA Software",
+    "startDate": "FEB, 2021",
+    "endDate": "SEP, 2021",
+    "location": "Kolkta, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Java",
+      "Spring Boot"
     ],
-    "imageSrc": "company/microsoft.png"
-  },
-  {
-    "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
-    "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
-    ],
-    "imageSrc": "company/netflix.png"
-  }
-]
+    "imageSrc": "company/ADA.jfif"
+  }]
