@@ -44,6 +44,11 @@ const Home = () => {
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
         </div>
+        <div className="up">
+          <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
+            <img src={`/assets/${hero.imgSrc}`} alt="hero" />
+          </div>
+        </div>
       </div>
     </>
   );
