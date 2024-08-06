@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Full Stack WEB App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "imageSrc": "company/fiverr.png",
     "description": "This is a project made with complete Spring Boot and React js.",
     "demo": "Full Stack WEB App",
     "source": "https://www.github.com"
