@@ -3,8 +3,6 @@
     "id": 1,
     "role": "Software Development Engineer",
     "organisation": "Wipro",
-    "startDate": "NOV, 2021",
-    "endDate": "JAN,2024",
     "location": "Bengaluru, India",
     "experiences": [
       "Java",
@@ -17,8 +15,6 @@
     "id": 2,
     "role": "Software Development Engineer",
     "organisation": "ADA Software",
-    "startDate": "FEB, 2021",
-    "endDate": "SEP, 2021",
     "location": "Kolkta, India",
     "experiences": [
       "Java",
