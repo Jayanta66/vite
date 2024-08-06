@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Full Stack WEB App",
-    "imageSrc": "company/fiverr.png",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
     "description": "This is a project made with complete Spring Boot and React js.",
     "demo": "Full Stack WEB App",
     "source": "https://www.github.com"
@@ -26,7 +26,7 @@
   {
     "key": 4,
     "title": "I am On Fiverr",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "imageSrc": "company/fiverr.png",
     "description": "I am on Fiverr. I would like to build your idea's into real.",
     "demo": "https://www.fiverr.com/jayanta_halder",
     "source": "https://www.fiverr.com/jayanta_halder"
