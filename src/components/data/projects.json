@@ -3,7 +3,7 @@
     "key": 1,
     "title": "Job Portal For HR",
     "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete Thymeleaf.",
+    "description": "This is a project made with complete Spring Boot and Thymeleaf.",
     "demo": "https://www.github.com",
     "source": "https://www.github.com"
   },
