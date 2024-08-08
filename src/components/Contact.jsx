@@ -17,8 +17,12 @@ const Contact = () => {
           data-aos-duration="1000"
         >
           
-          <a href="www.linkedin.com/in/jayantahalder" target="_blank" className="items">
+
+          <a href="https://linkedin.com/in/jayantahalder" target="_blank" className="items">
             <CiLinkedin className="icons" />
+          </a>
+          <a href="https://www.google.com" target="_blank" className="items">
+            <FaSquareXTwitter className="icons" />
           </a>
 
           <a
