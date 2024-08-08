@@ -21,9 +21,6 @@ const Contact = () => {
           <a href="https://linkedin.com/in/jayantahalder" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
-            <FaSquareXTwitter className="icons" />
-          </a>
 
           <a
             href="mailto:jayhalder18@gmail.com"
