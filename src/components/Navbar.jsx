@@ -24,10 +24,10 @@ const Navbar = () => {
           <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
             I am on Fiverr
           </a>
-          <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
+          <a href="https://www.upwork.com/freelancers/~017c81fa775b0f97ec" className="nav_items">
             I am on Upwork
           </a>
-          <a href="https://www.fiverr.com/jayanta_halder" className="nav_items">
+          <a href="https://www.freelancer.in/u/jayhalder555" className="nav_items">
             I am on Freelancer
           </a>
           <a href="#contact" className="nav_items">
