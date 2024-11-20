@@ -21,10 +21,10 @@ const App = () => {
       <Navbar />
       <div className="container">
         <Home />
+        <Freelancing/>
         <Experience />
         <Skills />
         <Projects />
-        <Freelancing/>
         <Contact />
       </div>
     </>
