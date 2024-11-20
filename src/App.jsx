@@ -22,6 +22,7 @@ const App = () => {
       <div className="container">
         <Home />
         <Freelancing/>
+        <br></br>
         <Experience />
         <Skills />
         <Projects />
