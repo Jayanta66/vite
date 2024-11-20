@@ -7,19 +7,19 @@ const Freelancing = () => {
         <h1>Freelancing sites</h1>
         <h1>I am available on these platform also . Just click on the site name to connect with me through these freelancing site. Thank you .</h1>
         <a href="https://www.fiverr.com/s/NNoXk98" className="nav_items">
-            Fiverr 
+            <h1>Fiverr</h1> 
           </a>
           <br></br>
           <br></br>
 
           <a href="https://www.upwork.com/freelancers/~017c81fa775b0f97ec" className="nav_items">
-            Upwork
+            <h1>Upwork</h1>
           </a>
           <br></br>
           <br></br>
 
           <a href="https://www.freelancer.in/u/jayhalder555" className="nav_items">
-            Freelancer
+            <h1>Freelancer</h1>
           </a>
         
       </div>
