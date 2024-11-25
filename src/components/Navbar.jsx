@@ -18,7 +18,7 @@ const Navbar = () => {
           <a href="#skills" className="nav_items">
             Skills
           </a>
-          <a href="successCochingCenter" className="nav_items">
+          <a href="https://jayanta66.github.io/successcochingcenter/" className="nav_items">
             Success Coching Center
           </a>
 
