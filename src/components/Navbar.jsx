@@ -18,6 +18,9 @@ const Navbar = () => {
           <a href="#skills" className="nav_items">
             Skills
           </a>
+          <a href="successCochingCenter" className="nav_items">
+            Success Coching Center
+          </a>
 
           
 

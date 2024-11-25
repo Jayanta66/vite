@@ -6,6 +6,7 @@ const Freelancing = () => {
       <div className="container freelancing" id="freelancing">
         <h1>Freelancing sites</h1>
         <h5>I am available on these platform also . Just click on the site name to connect with me through these freelancing site. Thank you .</h5>
+       
         <a href="https://www.fiverr.com/s/NNoXk98" className="nav_items">
             <h2>Fiverr</h2> 
           </a>
