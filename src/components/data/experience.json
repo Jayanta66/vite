@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer",
+    "organisation": "Wipro",
+    "location": "Bengaluru, India",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/wip.jpg"
+  },
+
+  {
+    "id": 2,
+    "role": "Software Engineer",
+    "organisation": "ADA Software",
+    "location": "Kolkata, India",
+    "experiences": [
+      "Java",
+      "Spring Boot"
+    ],
+    "imageSrc": "company/ADA.jfif"
+  }]
